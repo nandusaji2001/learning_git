@@ -1,0 +1,5 @@
+#Code to find the sum of 2 numbers in python
+a=int()[Dinput(enter a number"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D"[C[D[C[C[C[C[C[C[C[C[enter a number"))
+b=int(input("enter another number"))
+print()[Df"sum of {a} and {b} are [A[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C {a+b}")
